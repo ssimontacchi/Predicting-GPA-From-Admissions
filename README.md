@@ -6,3 +6,6 @@ that it would be best not to even make the altered files available, as making up
 for each student would be too much work.
 
 Still, I hope that the process is fascinating. Now, if only Bokeh graphs would show up on github...
+
+Also, please take a look at the presentation I gave the faculty for my full analysis. Again, the results
+have been edited for the purposes of confidentiality.
