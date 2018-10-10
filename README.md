@@ -1,8 +1,8 @@
 # can-admissions-predict-GPA
 Takes years of admissions and GPA data and cleans, merges, and analyzes it using a Random Forest
 
-Dependencies:
-<pre><code>
+<pre><code>Dependencies:
+
 from bokeh.plotting import figure, show
 from bokeh.io import output_notebook, export_png
 from IPython.core.display import HTML
