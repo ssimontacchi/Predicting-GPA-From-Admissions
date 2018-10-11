@@ -1,5 +1,5 @@
 # can-admissions-predict-GPA
-Takes years of admissions and GPA data from different services and databases and cleans, merges, and analyzes it using a Random Forest
+Takes years of admissions and GPA data from different services and databases and cleans, merges, and analyzes it using a Random Forest.
 
 <pre><code>Dependencies:
 
