@@ -1,21 +1,6 @@
 # can-admissions-predict-GPA
 Takes years of admissions and GPA data from different services and databases and cleans, merges, and analyzes it using a Random Forest.
 
-<pre><code>Dependencies:
-
-from bokeh.plotting import figure, show
-from bokeh.io import output_notebook, export_png
-from IPython.core.display import HTML
-import matplotlib.pyplot as plt
-import numpy as np
-import pandas as pd
-import seaborn as sns
-from sklearn.model_selection import GridSearchCV
-from sklearn.model_selection import ShuffleSplit
-from sklearn.ensemble import RandomForestRegressor
-</pre></code> 
-
-
 While the academic and admissions data has been altered to maintain confidentiality and the csv has been removed, I hope that you still find reading about the process fascinating. 
 
 Also, please take a look at the presentation I gave the faculty for my full analysis. Again, the results
